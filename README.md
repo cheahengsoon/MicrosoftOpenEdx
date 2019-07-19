@@ -119,5 +119,5 @@ https://openedx.microsoft.com/courses/course-v1:Microsoft+MB-240.1+2019_T1/about
 
 **MB-320 Microsoft Dynamics 365 for Finance and Operations,Manufacturing** <br/>
 
-**MB-330 Microsoft Dynamics 365 for Finance and Operations,Supplu Chain Management** <br/>
+**MB-330 Microsoft Dynamics 365 for Finance and Operations,Supply Chain Management** <br/>
 
