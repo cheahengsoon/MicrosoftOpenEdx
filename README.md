@@ -2,8 +2,7 @@
 Free Online Courses from https://openedx.microsoft.com/ (Self-paced)
 
 # Track:Apps & Infrastructure
-**AZ-103 Microsoft Azure Administrator**
-
+**AZ-103 Microsoft Azure Administrator** <br/>
 https://openedx.microsoft.com/courses/course-v1:Microsoft+AZ-103.1+2019_T2/about
 
 **AZ-203 Developing Solutions for Microsoft Azure**
