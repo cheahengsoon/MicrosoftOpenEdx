@@ -1,4 +1,4 @@
-# Microsoft OpenEdx (19 July 2019)
+# Microsoft Open edX (19 July 2019)
 Free Online Courses from https://openedx.microsoft.com/ (Self-paced)
 
 # Track:Apps & Infrastructure
