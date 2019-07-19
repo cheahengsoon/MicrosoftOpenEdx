@@ -115,6 +115,9 @@ https://openedx.microsoft.com/courses/course-v1:Microsoft+MB-230.1+2019_T1/about
 https://openedx.microsoft.com/courses/course-v1:Microsoft+MB-240.1+2019_T1/about
 
 **MB-300 Microsoft Dynamics 365 Unified Operations Core**
-**MB-310 Microsoft Dynamics 365 for Finance and Operations,Financials
-**MB-320 Microsoft Dynamics 365 for Finance and Operations,Manufacturing
-**MB-330 Microsoft Dynamics 365 for Finance and Operations,Supplu Chain Management
+
+**MB-310 Microsoft Dynamics 365 for Finance and Operations,Financials**
+
+**MB-320 Microsoft Dynamics 365 for Finance and Operations,Manufacturing**
+
+**MB-330 Microsoft Dynamics 365 for Finance and Operations,Supplu Chain Management**
