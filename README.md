@@ -46,7 +46,7 @@ https://openedx.microsoft.com/courses/course-v1:Microsoft+DP-201.1+2019_T3/about
 **AI-100 Designing and Implementing an Azure AI Solutions** <br/>
 https://openedx.microsoft.com/courses/course-v1:Microsoft+AI-100.1+2019_T3/about
 
-# Track: Business Application
+# Track:Modern Workplace
 **MD-100 Windows 10** <br/>
 https://openedx.microsoft.com/courses/course-v1:Microsoft+MD-100.1+2019_T1/about
 https://openedx.microsoft.com/courses/course-v1:Microsoft+MD-100.2+2019_T1/about
