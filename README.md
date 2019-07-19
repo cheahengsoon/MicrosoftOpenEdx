@@ -1,5 +1,4 @@
-# Microsoft Open edX (19 July 2019)
-Free Online Courses from https://openedx.microsoft.com/ (Self-paced)
+# Free Azure certification training courses (19 July 2019)
 
 # Track:Apps & Infrastructure
 **AZ-103 Microsoft Azure Administrator** <br/>
