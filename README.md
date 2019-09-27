@@ -114,6 +114,9 @@ https://openedx.microsoft.com/courses/course-v1:Microsoft+MB-230.1+2019_T1/about
 https://openedx.microsoft.com/courses/course-v1:Microsoft+MB-240.1+2019_T1/about
 
 **MB-300 Microsoft Dynamics 365 Unified Operations Core** <br/>
+https://openedx.microsoft.com/courses/course-v1:Microsoft+MB-300.1+2019_T1/course/
+https://openedx.microsoft.com/courses/course-v1:Microsoft+MB-300.2+2019_T1/course/
+https://openedx.microsoft.com/courses/course-v1:Microsoft+MB-300.3+2019_T1/course/
 
 **MB-310 Microsoft Dynamics 365 for Finance and Operations,Financials** <br/>
 
