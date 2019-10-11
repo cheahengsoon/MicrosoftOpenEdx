@@ -59,7 +59,7 @@ https://openedx.microsoft.com/courses/course-v1:Microsoft+MD-101.2+2019_T1/about
 https://openedx.microsoft.com/courses/course-v1:Microsoft+MD-101.3+2019_T1/about
 
 **MS-200 Planning and Configuring a Messaging Platform** <br/>
-Dynamics 365: Power Platform applications [https://openedx.microsoft.com/courses/course-v1:Microsoft+MS-200.1+2019_T1/about]
+Dynamics 365: Power Platform applications[https://openedx.microsoft.com/courses/course-v1:Microsoft+MS-200.1+2019_T1/about]
 https://openedx.microsoft.com/courses/course-v1:Microsoft+MS-200.2+2019_T1/about
 https://openedx.microsoft.com/courses/course-v1:Microsoft+MS-200.3+2019_T1/about
 
