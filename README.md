@@ -96,7 +96,7 @@ https://openedx.microsoft.com/courses/course-v1:Microsoft+MS-101.2+2019_T2/about
 https://openedx.microsoft.com/courses/course-v1:Microsoft+MS-101.3+2019_T2/about
 
 # Track:Business Applications
-**MB-200 Microsoft Dynamics 365 Customer Engagement Core** <br/>
+**MB-200 Microsoft Power Platform + Dynamics 365 Core** <br/>
 https://openedx.microsoft.com/courses/course-v1:Microsoft+MB-200.1+2019_T1/about
 https://openedx.microsoft.com/courses/course-v1:Microsoft+MB-200.2+2019_T1/about
 https://openedx.microsoft.com/courses/course-v1:Microsoft+MB-200.3+2019_T1/about
@@ -105,7 +105,7 @@ https://openedx.microsoft.com/courses/course-v1:Microsoft+MB-200.4+2019_T1/about
 **MB-210 Microsoft Dynamics 365 for Sales** <br/>
 https://openedx.microsoft.com/courses/course-v1:Microsoft+MB-210.1+2019_T1/about
 
-**MB-220 Microsoft Dynamics 365 for Marketing** <br/>
+**MB-220 Microsoft Dynamics 365 Marketing** <br/>
 
 **MB-230 Microsoft Dynamics 365 for Customer Service** <br/>
 https://openedx.microsoft.com/courses/course-v1:Microsoft+MB-230.1+2019_T1/about
@@ -113,14 +113,14 @@ https://openedx.microsoft.com/courses/course-v1:Microsoft+MB-230.1+2019_T1/about
 **MB-240 Microsoft Dynamics 365 for Field Service** <br/>
 https://openedx.microsoft.com/courses/course-v1:Microsoft+MB-240.1+2019_T1/about
 
-**MB-300 Microsoft Dynamics 365 Unified Operations Core** <br/>
+**MB-300 Microsoft Dynamics 365: Core Finance and Operations** <br/>
 https://openedx.microsoft.com/courses/course-v1:Microsoft+MB-300.1+2019_T1/course/
 https://openedx.microsoft.com/courses/course-v1:Microsoft+MB-300.2+2019_T1/course/
 https://openedx.microsoft.com/courses/course-v1:Microsoft+MB-300.3+2019_T1/course/
 
-**MB-310 Microsoft Dynamics 365 for Finance and Operations,Financials** <br/>
+**MB-310 Microsoft Dynamics 365 Finance** <br/>
 
-**MB-320 Microsoft Dynamics 365 for Finance and Operations,Manufacturing** <br/>
+**MB-320 Microsoft Dynamics 365 Supply Chain Management, Manufacturing** <br/>
 
-**MB-330 Microsoft Dynamics 365 for Finance and Operations,Supply Chain Management** <br/>
+**MB-330 Microsoft Dynamics 365 Supply Chain Management** <br/>
 
